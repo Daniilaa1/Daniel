@@ -1,0 +1,10 @@
+~ DeBankChain ~~
+├── packages
+│   └── contracts-bedrock: Bedrock smart contracts.
+├── op-bindings: Go bindings for Bedrock smart contracts.
+├── op-batcher: L2-Batch Submitter, submits bundles of batches to L1
+├── op-e2e: End-to-End testing of all bedrock components in Go
+├── op-node: rollup consensus-layer client.
+├── op-proposer: L2-Output Submitter, submits proposals to L1
+├── ops-bedrock: Bedrock devnet work
+└── specs: Specs of the rollup starting
